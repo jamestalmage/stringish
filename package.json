@@ -1,6 +1,6 @@
 {
   "name": "stringish",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Helper for creating string backed objects",
   "license": "MIT",
   "repository": "jamestalmage/stringish",
